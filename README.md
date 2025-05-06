@@ -34,4 +34,5 @@ It fetches exchange rates from [ExchangeRate-API](https://www.exchangerate-api.c
 
  Used the [ExchangeRate-API](https://www.exchangerate-api.com/) to fetch real-time currency exchange rates.
 
-Screenshot of project: 
+## Screenshot of project: 
+![Image](https://github.com/user-attachments/assets/34019adb-55f6-4644-873a-af21c42ef7c3)
